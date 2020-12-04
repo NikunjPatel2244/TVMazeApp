@@ -1,0 +1,24 @@
+.listItems {
+    border: 1px solid;
+    list-style-type: none;
+    border-bottom: none;
+    padding: 10px;
+    height: 80px;
+}
+.title {
+    margin-left: 259px;
+    margin-top: 30px;
+}
+.results {
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+}
+ul.list {
+    padding-left: 0px;
+    height: 80vh;
+    overflow: auto;
+}
+.listItems:last-child{
+    border-bottom: 1px solid;
+}

@@ -1,0 +1,4 @@
+export default {
+    SET_DETAILS_DATA: 'SET_DETAILS_DATA',
+    SET_SEARCH_LIST: 'SET_SEARCH_LIST',
+}
